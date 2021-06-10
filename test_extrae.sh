@@ -8,6 +8,7 @@
 
 module load 2020
 module load foss/2020a
+module load Extrae/3.8.3-gompi-2020a
 
 ./make_all.sh mpi
 
